@@ -1,0 +1,2078 @@
+{
+  "mushroomsAPI": [
+    {
+      "id": 1,
+      "name": "Agaricus californicus",
+      "commonname": "California Agaricus",
+      "genus": "Agaricus",
+      "agent": "phenol and xanthodermin",
+      "distribution": [
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Agaricus_californicus_2.jpg/500px-Agaricus_californicus_2.jpg",
+      "type": "poisonous",
+      "introduction": "Agaricus californicus, commonly known as the mock meadow mushroom or California agaricus, is a species of fungus in the section Xanthodermati of the genus Agaricus.The mushroom is mildly poisonous, often causing gastrointestinal upset.",
+      "description": "The caps are 5–12 cm (2.0–4.7 in) wide, white, sometimes with a grayish-tan center, dry, and either unchanged or yellowing slightly when bruised. The stalk is 3–10 cm (1.2–3.9 in) long and 1–2 wide, perhaps larger at the base. It has a persistent ring. The spores are brown and smooth. The species, like many members of Agaricus section Xanthodermati, displays a yellowing (then darker) reaction where its flesh has been damaged, although this is not always readily apparent. The cap surface turns yellow in KOH"
+    },
+    {
+      "id": 2,
+      "name": "Agaricus hondensis",
+      "commonname": "Felt-ringed Agaricus",
+      "genus": "Agaricus",
+      "agent": "phenol and xanthodermin",
+      "distribution": [
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Agaricus_hondensis_71317.jpg/500px-Agaricus_hondensis_71317.jpg",
+      "type": "poisonous",
+      "introduction": "Agaricus hondensis, commonly known as the felt-ringed agaricus, is a species of fungus in the family Agaricaceae. The species was officially described in 1912 by mycologist William Alphonso Murrill, along with three other Agaricus species that have since been placed in synonymy with A. hondensis.",
+      "description": "The fungus produces fruit bodies (mushrooms) with white to gray-brown caps up to 15 cm (6 in) in diameter covered with pale pinkish-brown scales that darken in age. The tightly-packed gills on the cap underside are initially white before becoming pinkish, lilac-gray, and finally brownish as the spores mature. The stout stipe is bulbous and has a thick, white, felt-like ring. The mushroom has an unpleasant odor similar to phenol or creosote, and develops a soapy-metallic taste when cooked. It can be distinguished from similar Agaricus species by differences in geographic range, habitat, staining reaction, and odor. Found in the Pacific Northwest region of North America, A. hondensis fruits in the fall under conifers or in mixed forests. The mushroom is poisonous, causing severe gastrointestinal upset if consumed."
+    },
+    {
+      "id": 3,
+      "name": "Agaricus menieri",
+      "commonname": "",
+      "genus": "Agaricus",
+      "agent": "phenol and xanthodermin",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "Agaricus menieri belongs to the Agaricaceae family, a prominent group noted for gilled mushrooms. It typically appears in grassy areas, thriving in meadows and near gardens. This species is distinguished by its sturdy stem and the cap which often displays a range of brown shades. Agaricus menieri releases a distinct spicy aroma, a characteristic trait within its genus.",
+      "description": ""
+    },
+    {
+      "id": 4,
+      "name": "Agaricus moelleri",
+      "commonname": "Inky Mushroom",
+      "genus": "Agaricus",
+      "agent": "phenol and xanthodermin",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pe%C4%8D%C3%A1rka_perli%C4%8Dkov%C3%A1_Podkomorsk%C3%A9_lesy.jpg/500px-Pe%C4%8D%C3%A1rka_perli%C4%8Dkov%C3%A1_Podkomorsk%C3%A9_lesy.jpg",
+      "type": "poisonous",
+      "introduction": "Agaricus moelleri, commonly known as the inky mushroom, or dark scaled mushroom, is a large species of fungus in the genus Agaricus. It appears occasionally in most kinds of woodland, during late summer, in northern temperate zones.",
+      "description": "The cap has a greyish-brown patch in the centre and cold grey-brown scaling on the surrounding off-white background. It is 5 to 9 centimetres (2 to 3+1⁄2 in) in diameter, and yellows when bruised. It is ovate when young, flattening later. The stem has a drooping ring and stains yellow very easily when bruised, this colour then changes to brown over time. The stem flesh bruises yellow only faintly and is more noticeable in the base. The gills are crowded and free, as is typical for an Agaricus. They are pink on young specimens, but brown to black on older fruit bodies. The flesh is white and does not change colour on cutting. It smells like ink, iodoform, phenol, sweat, or mouldy straw. The spores are 4–6 x 3–4 μm and are elliptical."
+    },
+    {
+      "id": 5,
+      "name": "Agaricus phaeolepidotus",
+      "commonname": "",
+      "genus": "Agaricus",
+      "agent": "phenol and xanthodermin",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "Agaricus phaeolepidotus (dusky scaled mushroom is a species of fungus in the family Agaricaceae. A European species, the agaric was first described scientifically in 1952 by F.H.Møller.",
+      "description": "Agaricus phaeolepidotus belongs to a family known for gilled mushrooms. It typically has a brown cap and its stem can feature a ring. This species is found in grassy areas, often near wood debris (especially next to pines and populus), indicating its preference for nutrient-rich substrates. It thrives in temperate climates and is most commonly seen during the rainier seasons. The mushroom can be found in diverse habitats and conditions, particularly prevalent during warmer climates. Consuming agaricus phaeolepidotus can lead to serious health risks, including gastrointestinal distress, vertigo, vision problems, and issues with blood circulation. Despite its unique morphology, caution is advised as it can be mistaken for non-toxic species."
+    },
+    {
+      "id": 6,
+      "name": "Agaricus placomyces",
+      "commonname": "",
+      "genus": "Agaricus",
+      "agent": "phenol and xanthodermin",
+      "distribution": [
+        "North America",
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Agaricus.placomyces..000...jpg/500px-Agaricus.placomyces..000...jpg",
+      "type": "poisonous",
+      "introduction": "Agaricus placomyces is a toxic basidiomycete fungus of the genus Agaricus. It is found in North America; the Eurasian populations formerly known by the same scientific name are nowadays known as A. moelleri, while the present species may also be referred to as A. praeclaresquamosus.",
+      "description": "Agaricus placomyces has a cap that is 5–13 centimetres (2–5 in) wide and varies from convex to broadly convex or nearly flat in age. In addition, the surface of the cap is dry and covered with brownish fibers and scales, especially over the center. Underneath, the cap can be whitish under normal environments, or pinkish in wet weather. Covered with fine, appressed greyish-brown scales and concentrated at the disc, the cap is thick, slowly becoming vinaceous when injured; the odor smells of phenol. The flesh is white, and become yellow when placed in KOH. The gills of this mushroom are free from the stem, crowded, and pale grayish-pink, turning brown in age. In addition, the stem is 6–15 cm long, 1–1.5 cm. thick and more or less equal, with an enlarged base (unlike typically ending in a small bulb like Agaricus pocillator). Also, it is fairly smooth, white and bruising yellow, especially at the base, with a persistent ring, and the partial veil when still covering the gills developing brownish to yellowish droplets. At 8–15 cm long and 2–3.5 cm thick, the stipe is slightly enlarged at the base; the surface is white, and smooth above and below the ring. The veil of the stipe is membranous, thick, white, and forms a persistent ring with a smooth upper and lower surface. The base of the stipe is typically yellow when bruised and smells of phenol."
+    },
+    {
+      "id": 7,
+      "name": "Agaricus xanthodermus",
+      "commonname": "Yellow-staining mushroom",
+      "genus": "Agaricus",
+      "agent": "phenol and xanthodermin",
+      "distribution": [
+        "worldwide"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2010-11-13_Agaricus_xanthodermus_Genev_120348_crop.jpg/500px-2010-11-13_Agaricus_xanthodermus_Genev_120348_crop.jpg",
+      "type": "poisonous",
+      "introduction": "Agaricus xanthodermus, commonly known as the yellow-staining agaricus, yellow-staining mushroom or yellow-stainer, is a species of fungus in the genus Agaricus. It displays a strong yellow colouration at the base of the stem when cut. It has a phenolic smell. It is poisonous for most people, causing gastric upset, but can be eaten by some without apparent negative effect.",
+      "description": "The cap ranges from 5–15 cm (2–6 in) in diameter. It is initially convex, with some young specimens having a squarish shape, though flattening with age. It is whitish with light brown tints towards the centre. The cap is dry and smooth, but can be scaly when old. The gills of this mushroom progress from pale-pink to a chocolate color. Its white stipe measures 5–12 cm (2.0–4.7 in) tall and 1–3 wide, and is bulbous with a skirt-like ring. Microscopically, the cheilocystidia are club-shaped. The spores are brown, elliptical, and smooth, measuring 6–7 × 3–4 μm. The species has an unpleasant characteristic smell, which is phenolic, reminiscent of ink or carbolic soap. The smell is especially strong at the base of the stem. On cooking, the smell becomes very noticeable, and this may deter people from eating it inadvertently. The main identifying feature is an immediate bright yellow colouration on cutting through the base of the stem, or scraping the flesh; later, the affected area fades to a dull brown. Numerous edible Agaricus species, such as A. augustus, A arvensis and A. silvicola, turn yellow to a greater or lesser extent, but they do not display such an intense reaction. Agaricus xanthodermus belongs to a group of related species (the \"Xanthodermati\") which likewise discolour bright yellow and have a phenolic smell. They include A. praeclaresquamosus (formerly A. placomyces) which has dark grey scales, A. moelleri and A. pilatianus, which does not have a bulbous stem."
+    },
+    {
+      "id": 8,
+      "name": "Amanita abrupta",
+      "commonname": "American abrupt-bulbed Lepidella",
+      "genus": "Amanita",
+      "agent": "L-2-amino-4-pentynoic acid and 2-Amino-4,5-hexadienoic acid",
+      "distribution": [
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Amanita_abrupta_49115.jpg/500px-Amanita_abrupta_49115.jpg",
+      "type": "poisonous",
+      "introduction": "Amanita abrupta, commonly known as the American abrupt-bulbed amanita or the American abrupt-bulbed lepidella, is a possibly toxic species of fungus in the family Amanitaceae. Named for the characteristic shape of its fruit bodies, this white Amanita has a slender stem, a cap covered with conical white warts, and an \"abruptly enlarged\" swollen base. This terrestrial species grows in mixed woods in eastern North America and eastern Asia, where it is thought to exist in a mycorrhizal relationship with a variety of both coniferous and deciduous tree species.",
+      "description": "As with most mushrooms, the bulk of A. abrupta lies beneath the ground as an aggregation of fungal cells called hyphae; under appropriate environmental conditions, the visible reproductive structure (fruit body) is formed. The cap has a diameter of 4 to 10 centimeters (1+1⁄2 to 4 inches), and has a broadly convex shape when young, but eventually flattens. The central portion of the cap becomes depressed in mature specimens. The cap surface is verrucose—covered with small angular or pyramidal erect warts (1–2 mm tall by 1–2 mm wide at the base); the warts are smaller and more numerous near the margin of the cap, and small fragments of tissue may be hanging from the margin of the cap. The cap surface, the warts, and the flesh are white. The warts can be easily separated from the cap, and in mature specimens they have often completely or partly disappeared. The white gills are placed moderately close together, reaching the stem but not directly attached to it. The stem is 6.5 to 12.5 cm (2+1⁄2 to 5 in) tall, and slender, with a diameter of 0.5 to 1.5 cm (1⁄4 to 1⁄2 in). It is white, smooth (glabrous), solid (that is, not hollow internally), and has an abruptly bulbous base with the shape of a flattened sphere; it may develop longitudinal splits on the sides. The base is often attached to a copious white mycelium—a visual reminder that the bulk of the organism lies unseen below the surface. The ring is membranous, and persistent—not weathering away with time; the ring may be attached to the stem with white fibers. The mushroom has no distinct odor."
+    },
+    {
+      "id": 9,
+      "name": "Amanita aprica",
+      "commonname": "Sunshine amanita",
+      "genus": "Amanita",
+      "agent": "muscarine and ibotenic acid (maybe not muscarine but muscimol)",
+      "distribution": [
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Amanita_aprica_BC.jpg/500px-Amanita_aprica_BC.jpg",
+      "type": "poisonous",
+      "introduction": "Amanita aprica, also known as the sunshine amanita, is a toxic species of fungus in the family Amanitaceae. The species has a yellow to orange cap with warty remnants of the whitish universal veil. The gills are pale, as is the stipe, which may be wider at the base. A skirt-like ring may be present, especially on younger specimens. Described as new to science in 2005, the species is found in the Pacific Northwest region of North America, where it grows in a mycorrhizal association with Douglas-fir and pines.",
+      "description": ""
+    },
+    {
+      "id": 10,
+      "name": "Amanita arocheae",
+      "commonname": "Latin American death cap",
+      "genus": "Amanita",
+      "agent": "amanitins",
+      "distribution": [
+        "Mexico"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Amanita_arocheae_353827.jpg/500px-Amanita_arocheae_353827.jpg",
+      "type": "deadly",
+      "introduction": "Amanita arocheae, also known as the Latin American death cap, is a mushroom of the large genus Amanita, which occurs in Colombia, Central America and South America. Deadly poisonous, it is a member of section Phalloideae and related to the death cap, A. phalloides.",
+      "description": "The cap is convex to plano-convex, reaching dimensions of 3–11 centimetres (1+1⁄4–4+1⁄4 inches). The cap surface is sticky or tacky. The center of the cap is gray to brown with a gray edge. The white gills are closely crowded together and free from attachment to the stipe. In young mushrooms, the gills exude drops of clear fluid. The dry, white to pale grey stipe measures 8–20 cm (3–8 in) long by 0.5–1.7 cm (1⁄4–3⁄4 in) thick. It has a bulbous base, a white to grey, membranous volva at the stipe base, and white mycelium at the base. The stipe has a white ring. The odor of the flesh is mild to unpleasant. The spore print is white. Spores are smooth, amyloid, spherical or roughly so, and measure 7–10 by 6.8–9.5 μm. Clamp connections are absent from the hyphae. Amanita vaginata is similar, however A. vaginata has non-amyloid spores and lacks a ring on the stipe. It differs from A. phalloides (the death cap) in the colour of its cap."
+    },
+    {
+      "id": 11,
+      "name": "Amanita bisporigera",
+      "commonname": "Eastern destroying angel",
+      "agent": "amanitins",
+      "genus": "Amanita",
+      "distribution": [
+        "Eastern North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Amanita_bisporigera_17932.jpg/500px-Amanita_bisporigera_17932.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 12,
+      "name": "Amanita boudieri",
+      "commonname": "Boudier's lepidella",
+      "genus": "Amanita",
+      "agent": "A. smithiana toxin",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Amanita_boudieri_%281%29.jpg/500px-Amanita_boudieri_%281%29.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 13,
+      "name": "Amanita citrina",
+      "commonname": "False Death Cap",
+      "genus": "Amanita",
+      "agent": "bufotenin",
+      "distribution": [
+        "Europe",
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/2006-08-09_Amanita_citrina_46465_cropped.jpg/500px-2006-08-09_Amanita_citrina_46465_cropped.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 14,
+      "name": "Amanita cokeri",
+      "commonname": "Coker's amanita",
+      "genus": "Amanita",
+      "agent": "2-amino-3-cyclopropylbutanoic acid and 2-amino-5-chloro-4-pentenoic acid",
+      "distribution": [
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Amanita_cokeri_52268.jpg/500px-Amanita_cokeri_52268.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 15,
+      "name": "Amanita cothurnata",
+      "commonname": "Booted amanita",
+      "genus": "Amanita",
+      "agent": "muscimol and ibotenic acid",
+      "distribution": [
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amanita_multisquamosa_89571.jpg/500px-Amanita_multisquamosa_89571.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 16,
+      "name": "Amanita echinocephala",
+      "commonname": "European solitary amanita",
+      "genus": "Amanita",
+      "agent": "A. smithiana toxin",
+      "distribution": [
+        "Europe",
+        "Western Asia",
+        "North Africa"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Am.echin.jpg/500px-Am.echin.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 17,
+      "name": "Amanita exitialis",
+      "commonname": "Guangzhou destroying angel",
+      "genus": "Amanita",
+      "agent": "amanitins",
+      "distribution": [
+        "China",
+        "India"
+      ],
+      "img": "",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 18,
+      "name": "Amanita farinosa",
+      "commonname": "Powdery Amanita",
+      "genus": "Amanita",
+      "agent": "unknown",
+      "distribution": [
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Amanita_farinosa_02.jpg/500px-Amanita_farinosa_02.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 19,
+      "name": "Amanita flavorubescens",
+      "commonname": "",
+      "genus": "Amanita",
+      "agent": "unknown",
+      "distribution": [
+        "North America"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 20,
+      "name": "Amanita fuliginea",
+      "commonname": "East Asian brown death cap",
+      "genus": "Amanita",
+      "agent": "amanitins",
+      "distribution": [
+        "China"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Amanita_fuliginea_Hongo_803897.jpg/500px-Amanita_fuliginea_Hongo_803897.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 21,
+      "name": "Amanita gemmata",
+      "commonname": "Gemmed Amanita",
+      "genus": "Amanita",
+      "agent": "muscimol and ibotenic acid",
+      "distribution": [
+        "Europe",
+        "North Africa",
+        "Asia",
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/20060909_Amanita_gemmata_young.jpg/500px-20060909_Amanita_gemmata_young.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 22,
+      "name": "Amanita gioiosa",
+      "commonname": "Pebbly Soil Amanita",
+      "genus": "Amanita",
+      "agent": "unknown (probably muscimol and ibotenic acid)",
+      "distribution": [
+        "Europe",
+        "North Africa"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amanita_gioiosa_%281%29.jpg/500px-Amanita_gioiosa_%281%29.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 23,
+      "name": "Amanita gracilior",
+      "commonname": "European Slender Lepidella",
+      "genus": "Amanita",
+      "agent": "A. smithiana toxin",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 24,
+      "name": "Amanita heterochroma",
+      "commonname": "Eucalyptus fly agaric",
+      "genus": "Amanita",
+      "agent": "unknown (probably muscimol and ibotenic acid)",
+      "distribution": [
+        "Europe",
+        "North Africa"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 25,
+      "name": "Amanita hongoi",
+      "commonname": "Hongo's Amanita",
+      "genus": "Amanita",
+      "agent": "unknown",
+      "distribution": [
+        "Japan"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 26,
+      "name": "Amanita ibotengutake",
+      "commonname": "Japanese ringed-bulbed Amanita",
+      "genus": "Amanita",
+      "agent": "muscimol and ibotenic acid",
+      "distribution": [
+        "Japan"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 27,
+      "name": "Amanita magnivelaris",
+      "commonname": "Great felt skirt destroying angel",
+      "genus": "Amanita",
+      "agent": "amanitins",
+      "distribution": [
+        "North America",
+        "South America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amanita_magnivelaris_95937.jpg/500px-Amanita_magnivelaris_95937.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 28,
+      "name": "Amanita muscaria",
+      "commonname": "Fly agaric",
+      "genus": "Amanita",
+      "agent": "muscimol and ibotenic acid",
+      "distribution": [
+        "worldwide"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amanita_muscaria_After_Rain.jpg/500px-Amanita_muscaria_After_Rain.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 29,
+      "name": "Amanita neoovoidea",
+      "commonname": "East Asian egg amidella",
+      "genus": "Amanita",
+      "agent": "2-amino-4,5-hexadienoic acid",
+      "distribution": [
+        "East Asia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Amanita_neoovoidea_03.jpg/500px-Amanita_neoovoidea_03.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 30,
+      "name": "Amanita ocreata",
+      "commonname": "Western destroying angel",
+      "genus": "Amanita",
+      "agent": "amanitins",
+      "distribution": [
+        "Pacific Northwest",
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Amanita_ocreata_79782.jpg/500px-Amanita_ocreata_79782.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 31,
+      "name": "Amanita pantherina",
+      "commonname": "Panther cap",
+      "genus": "Amanita",
+      "agent": "muscimol and ibotenic acid",
+      "distribution": [
+        "Europe",
+        "North Africa",
+        "East Asia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Amanita_pantherina_2013_G1.jpg/500px-Amanita_pantherina_2013_G1.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 32,
+      "name": "Amanita phalloides",
+      "commonname": "death cap",
+      "genus": "Amanita",
+      "agent": "α-Amanitin (causes liver failure), Phalloidin (causes extreme GI upset)",
+      "distribution": [
+        "Europe",
+        "North Africa",
+        "North America",
+        "Australia",
+        "New Zealand"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Amanita_phalloides_1.JPG/500px-Amanita_phalloides_1.JPG",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 33,
+      "name": "Amanita porphyria",
+      "commonname": "Grey veiled Amanita",
+      "genus": "Amanita",
+      "agent": "unknown (probably bufotenin)",
+      "distribution": [
+        "North America",
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Amanita_porphyria_Alb._%26_Schwein_355243_2013-08-06_(cropped).jpg/500px-Amanita_porphyria_Alb._%26_Schwein_355243_2013-08-06_(cropped).jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 34,
+      "name": "Amanita pseudoporphyria",
+      "genus": "Amanita",
+      "commonname": "Hongo's false death cap",
+      "agent": "2-amino-4,5-hexadienoic acid",
+      "distribution": [
+        "Asia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Amanita_pseudoporphyria_10.jpg/500px-Amanita_pseudoporphyria_10.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 35,
+      "name": "Amanita pseudoregalis",
+      "genus": "Amanita",
+      "commonname": "False royal fly agaric",
+      "agent": "unknown (probably muscimol and ibotenic acid)",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 36,
+      "name": "Amanita pseudorubescens",
+      "commonname": "False blusher",
+      "genus": "Amanita",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 37,
+      "name": "Amanita regalis",
+      "commonname": "Royal fly agaric",
+      "genus": "Amanita",
+      "agent": "muscimol and ibotenic acid",
+      "distribution": [
+        "Europe",
+        "Alaska"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/2000_Amanita_regalis_cropped.jpg/500px-2000_Amanita_regalis_cropped.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 38,
+      "name": "Amanita smithiana",
+      "commonname": "Smith's Amanita",
+      "genus": "Amanita",
+      "agent": "A. smithiana toxin and 2-amino-4,5-hexadienoic acid",
+      "distribution": [
+        "North America",
+        "Japan"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amanita_smithiana_1403.jpg/500px-Amanita_smithiana_1403.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 39,
+      "name": "Amanita sphaerobulbosa",
+      "commonname": "Asian abrupt-bulbed Lepidella",
+      "genus": "Amanita",
+      "agent": "2-amino-4,5-hexadienoic acid",
+      "distribution": [
+        "East Asia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Amanita_sphaerobulbosa_01.jpg/500px-Amanita_sphaerobulbosa_01.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 40,
+      "name": "Amanita subjunquillea",
+      "commonname": "East Asian death cap",
+      "genus": "Amanita",
+      "agent": "amanitins",
+      "distribution": [
+        "East Asia",
+        "Southeast Asia",
+        "Japan",
+        "India"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tamagotakemodoi.jpg/500px-Tamagotakemodoi.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 41,
+      "name": "Amanita subpallidorosea",
+      "commonname": "",
+      "genus": "Amanita",
+      "agent": "amanitins",
+      "distribution": [
+        "China"
+      ],
+      "img": "",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 42,
+      "name": "Amanita verna",
+      "commonname": "Fool's mushroom",
+      "genus": "Amanita",
+      "agent": "amanitins",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Amanita_verna-02.jpg/500px-Amanita_verna-02.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 43,
+      "name": "Amanita virosa",
+      "commonname": "European destroying angel",
+      "genus": "Amanita",
+      "agent": "amanitins",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Destroying_Angel_02.jpg/500px-Destroying_Angel_02.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 44,
+      "name": "Ampulloclitocybe clavipes",
+      "commonname": "Club-footed clitocybe",
+      "genus": "Ampulloclitocybe",
+      "agent": "unknown",
+      "distribution": [
+        "North America",
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2012-10-19_Ampulloclitocybe_clavipes_%28Pers.%29_Redhead%2C_Lutzoni%2C_Moncalvo_%26_Vilgalys_274294.jpg/500px-2012-10-19_Ampulloclitocybe_clavipes_%28Pers.%29_Redhead%2C_Lutzoni%2C_Moncalvo_%26_Vilgalys_274294.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 45,
+      "name": "Chlorophyllum molybdites",
+      "commonname": "Green-spored parasol",
+      "genus": "Chlorophyllum",
+      "agent": "unknown",
+      "distribution": [
+        "worldwide"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/2014-04-18_Chlorophyllum_molybdites_%28G._Mey.-_Fr.%29_Massee_415792.jpg/500px-2014-04-18_Chlorophyllum_molybdites_%28G._Mey.-_Fr.%29_Massee_415792.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 46,
+      "name": "Claviceps purpurea",
+      "commonname": "Ergot",
+      "genus": "Claviceps",
+      "agent": "ergotamine",
+      "distribution": [
+        ""
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Claviceps_purpurea.JPG/500px-Claviceps_purpurea.JPG",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 47,
+      "name": "Clitocybe cerussata",
+      "commonname": "",
+      "genus": "Clitocybe",
+      "agent": "muscarine",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 48,
+      "name": "Clitocybe dealbata",
+      "commonname": "ivory funnel",
+      "genus": "Clitocybe",
+      "agent": "muscarine",
+      "distribution": [
+        "Europe",
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Clitocybe_dealbata.jpg/500px-Clitocybe_dealbata.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 49,
+      "name": "Clitocybe rivulosa",
+      "commonname": "false champignon",
+      "genus": "Clitocybe",
+      "agent": "muscarine",
+      "distribution": [
+        "Europe",
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Clitocybe_rivulosa_20081116w.JPG/500px-Clitocybe_rivulosa_20081116w.JPG",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 50,
+      "name": "Coprinopsis alopecia",
+      "commonname": "",
+      "genus": "Coprinopsis",
+      "agent": "coprine",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 51,
+      "name": "Coprinopsis atramentaria",
+      "commonname": "Common ink cap",
+      "genus": "Coprinopsis",
+      "agent": "coprine",
+      "distribution": [
+        "North America",
+        "Europe",
+        "Asia",
+        "Australia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/UNK_mushroom_1.JPG/500px-UNK_mushroom_1.JPG",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 52,
+      "name": "Coprinopsis romagnesiana",
+      "commonname": "Scaly ink cap",
+      "genus": "Coprinopsis",
+      "agent": "coprine",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/2005-12-14_Coprinopsis_romagnesiana_%28Singer%29_Redhead%2C_Vilgalys_%26_Moncalvo_10285.jpg/500px-2005-12-14_Coprinopsis_romagnesiana_%28Singer%29_Redhead%2C_Vilgalys_%26_Moncalvo_10285.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 53,
+      "name": "Cortinarius bolaris",
+      "commonname": "",
+      "genus": "Cortinarius",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Rotschuppige_Raukopf_Cortinarius_bolaris.JPG/500px-Rotschuppige_Raukopf_Cortinarius_bolaris.JPG",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 54,
+      "name": "Cortinarius callisteus",
+      "commonname": "Tawny Webcap",
+      "genus": "Cortinarius",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 55,
+      "name": "Cortinarius cinnabarinus",
+      "commonname": "",
+      "genus": "Cortinarius",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cortinarius_cinnabarinus.jpg/500px-Cortinarius_cinnabarinus.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 56,
+      "name": "Cortinarius cinnamomeofulvus",
+      "commonname": "",
+      "genus": "Cortinarius",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 57,
+      "name": "Cortinarius cinnamomeoluteus",
+      "commonname": "",
+      "genus": "Cortinarius",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Cortinarius_cinnamomeoluteus_a2.jpg/500px-Cortinarius_cinnamomeoluteus_a2.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 58,
+      "name": "Cortinarius cinnamomeus",
+      "commonname": "Cinnamon webcap",
+      "genus": "Cortinarius",
+      "agent": "unknown",
+      "distribution": [
+        "North America",
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cortinarius_cinnamomeus_%2832328861131%29.jpg/500px-Cortinarius_cinnamomeus_%2832328861131%29.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 59,
+      "name": "Cortinarius cruentus",
+      "commonname": "",
+      "genus": "Cortinarius",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 60,
+      "name": "Cortinarius eartoxicus",
+      "commonname": "deadly webcap",
+      "genus": "Cortinarius",
+      "agent": "orellanine",
+      "distribution": [
+        "Tasmania"
+      ],
+      "img": "",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 61,
+      "name": "Cortinarius gentilis",
+      "commonname": "",
+      "genus": "Cortinarius",
+      "agent": "orellanine",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cortinarius_gentilis_group.jpg/500px-Cortinarius_gentilis_group.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 62,
+      "name": "Cortinarius limonius",
+      "commonname": "",
+      "genus": "Cortinarius",
+      "agent": "unknown",
+      "distribution": [
+        "North America",
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2013-08-14_Cortinarius_limonius_%28Fr.%29_Fr_361131.jpg/500px-2013-08-14_Cortinarius_limonius_%28Fr.%29_Fr_361131.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 63,
+      "name": "Cortinarius malicorius",
+      "commonname": "",
+      "genus": "Cortinarius",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/2010-08-16_Cortinarius_malicorius_Fr_267548.jpg/500px-2010-08-16_Cortinarius_malicorius_Fr_267548.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 64,
+      "name": "Cortinarius mirandus",
+      "commonname": "",
+      "genus": "Cortinarius",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cortinarius_mirandus.jpg/500px-Cortinarius_mirandus.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 65,
+      "name": "Cortinarius orellanus",
+      "commonname": "Fool's webcap",
+      "genus": "Cortinarius",
+      "agent": "orellanine",
+      "distribution": [
+        "Northern Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Corellanus.jpg/500px-Corellanus.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 66,
+      "name": "Cortinarius palustris",
+      "commonname": "",
+      "genus": "Cortinarius",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 67,
+      "name": "Cortinarius phoeniceus",
+      "commonname": "",
+      "genus": "Cortinarius",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cortinarius_phoeniceus.JPG/500px-Cortinarius_phoeniceus.JPG",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 68,
+      "name": "Cortinarius rubellus",
+      "commonname": "deadly webcap",
+      "genus": "Cortinarius",
+      "agent": "orellanine",
+      "distribution": [
+        "Northern Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cortinarius_rubellus_01.jpg/500px-Cortinarius_rubellus_01.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 69,
+      "name": "Cortinarius rubicundulus",
+      "commonname": "",
+      "genus": "Cortinarius",
+      "agent": "unknown",
+      "distribution": [
+        "North America",
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2013-01-19_Cortinarius_rubicundulus_%28Rea%29_A._Pearson_303395.jpg/500px-2013-01-19_Cortinarius_rubicundulus_%28Rea%29_A._Pearson_303395.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 70,
+      "name": "Cortinarius smithii",
+      "commonname": "Smith's Cortinarius",
+      "genus": "Cortinarius",
+      "agent": "unknown",
+      "distribution": [
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cortinarius_smithii_292837.jpg/500px-Cortinarius_smithii_292837.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 71,
+      "name": "Cortinarius splendens",
+      "commonname": "splendid webcap, yellow clubbed foot",
+      "genus": "Cortinarius",
+      "agent": "orellanine",
+      "distribution": [
+        ""
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/2008-11-26_Cortinarius_splendens_Rob._Henry_234180.jpg/500px-2008-11-26_Cortinarius_splendens_Rob._Henry_234180.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 72,
+      "name": "Cudonia circinans",
+      "commonname": "",
+      "genus": "Cudonia",
+      "agent": "gyromitrin and monomethylhydrazine",
+      "distribution": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cudonia_circinans_-_Helm-Kreisling.jpg/500px-Cudonia_circinans_-_Helm-Kreisling.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 73,
+      "name": "Echinoderma asperum",
+      "commonname": "Freckled dapperling",
+      "genus": "Echinoderma",
+      "agent": "unknown",
+      "distribution": [
+        "North America",
+        "Europe",
+        "Asia",
+        "Australia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Echinoderma_asperum20061022wa.jpg/500px-Echinoderma_asperum20061022wa.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 74,
+      "name": "Echinoderma calcicola",
+      "commonname": "",
+      "genus": "Echinoderma",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 75,
+      "name": "Entoloma albidum",
+      "commonname": "",
+      "genus": "Entoloma",
+      "agent": "unknown",
+      "distribution": [
+        "North America"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 76,
+      "name": "Entoloma rhodopolium",
+      "commonname": "Wood pinkgill",
+      "genus": "Entoloma",
+      "agent": "unknown",
+      "distribution": [
+        "Europe",
+        "Asia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Entoloma_rhodopolium_-_Lindsey.jpg/500px-Entoloma_rhodopolium_-_Lindsey.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 77,
+      "name": "Entoloma sinuatum",
+      "commonname": "Livid Entoloma",
+      "genus": "Entoloma",
+      "agent": "unknown",
+      "distribution": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2005-09-25_Entoloma_sinuatum_cropped.jpg/500px-2005-09-25_Entoloma_sinuatum_cropped.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 78,
+      "name": "Galerina marginata",
+      "commonname": "autumn skullcap",
+      "genus": "Galerina",
+      "agent": "amanitins",
+      "distribution": [
+        "worldwide"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Galerina_marginata.jpg/500px-Galerina_marginata.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 79,
+      "name": "Galerina sulciceps",
+      "commonname": "toadstool",
+      "genus": "Galerina",
+      "agent": "amanitins",
+      "distribution": [
+        "Indonesia"
+      ],
+      "img": "",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 80,
+      "name": "Gyromitra",
+      "commonname": "false morel",
+      "genus": "Gyromitra",
+      "agent": "gyromitrin and monomethylhydrazine",
+      "distribution": [
+        "Northern latitudes"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fr%C3%BChjahrslorchel.JPG/500px-Fr%C3%BChjahrslorchel.JPG",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 81,
+      "name": "Gyromitra perlata",
+      "commonname": "Pig's ears",
+      "genus": "Gyromitra",
+      "agent": "gyromitrin and monomethylhydrazine",
+      "distribution": [
+        "North America",
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2010-02-15_Discina_perlata_%28Fr.%29_Fr_93104.jpg/500px-2010-02-15_Discina_perlata_%28Fr.%29_Fr_93104.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 82,
+      "name": "Hapalopilus nidulans",
+      "commonname": "Tender nesting polypore",
+      "genus": "Gyromitra",
+      "agent": "polyporic acid",
+      "distribution": [
+        "worldwide"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Detail_of_a_160_mm_diameter_Hapalopilus_nidulans_or_Hapalopilus_rutilans_%28Cinnamon_Bracket_or_Tender_Nesting_Polypore%2C_D%3D_Zimtfarbener_Weichporling%2C_F%3D_Polypore_rutilant_%2C_NL%3D_Kussenvormige_houtzwam%29_white_spores_and_c_-_panoramio.jpg/500px-Detail_of_a_160_mm_diameter_Hapalopilus_nidulans_or_Hapalopilus_rutilans_%28Cinnamon_Bracket_or_Tender_Nesting_Polypore%2C_D%3D_Zimtfarbener_Weichporling%2C_F%3D_Polypore_rutilant_%2C_NL%3D_Kussenvormige_houtzwam%29_white_spores_and_c_-_panoramio.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 83,
+      "name": "Hebeloma crustuliniforme",
+      "commonname": "Poison pie",
+      "genus": "Hebeloma",
+      "agent": "unknown",
+      "distribution": [
+        "North America",
+        "Europe",
+        "Australia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/2012-10-16_Hebeloma_crustuliniforme_%28Bull.%29_Qu%C3%A9l_272561_crop.jpg/500px-2012-10-16_Hebeloma_crustuliniforme_%28Bull.%29_Qu%C3%A9l_272561_crop.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 84,
+      "name": "Hebeloma sinapizans",
+      "commonname": "Rough-stalked hebeloma",
+      "genus": "Hebeloma",
+      "agent": "unknown",
+      "distribution": [
+        "North America",
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hebeloma_sinapizans.JPG/500px-Hebeloma_sinapizans.JPG",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 85,
+      "name": "Helvella crispa",
+      "commonname": "Elfin saddle",
+      "genus": "Helvella",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2011-11-06_Helvella_crispa_crop.jpg/500px-2011-11-06_Helvella_crispa_crop.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 86,
+      "name": "Helvella dryophila",
+      "commonname": "Oak-loving elfin saddle",
+      "genus": "Helvella",
+      "agent": "unknown",
+      "distribution": [
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Helvella_dryophila_597531.jpg/500px-Helvella_dryophila_597531.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 87,
+      "name": "Helvella lactea",
+      "commonname": "",
+      "genus": "Helvella",
+      "agent": "unknown",
+      "distribution": [
+        "North America",
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Helvella_lactea_%2832841908675%29.jpg/500px-Helvella_lactea_%2832841908675%29.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 88,
+      "name": "Helvella lacunosa",
+      "commonname": "Slate grey saddle",
+      "genus": "Helvella",
+      "agent": "unknown",
+      "distribution": [
+        "worldwide"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Helvella_lacunosa_%284496682391%29.jpg/500px-Helvella_lacunosa_%284496682391%29.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 89,
+      "name": "Helvella vespertina",
+      "commonname": "Western black elfin saddle",
+      "genus": "Helvella",
+      "agent": "unknown",
+      "distribution": [
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Helvella_vespertina_316605.jpg/500px-Helvella_vespertina_316605.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 90,
+      "name": "Hypholoma fasciculare",
+      "commonname": "Sulphur tuft",
+      "genus": "Hypholoma",
+      "agent": "fasciculol E and fasciculol F",
+      "distribution": [
+        "worldwide"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Hypholoma_fasciculare_LC0091.jpg/500px-Hypholoma_fasciculare_LC0091.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 91,
+      "name": "Hypholoma lateritium",
+      "commonname": "Brick cap",
+      "genus": "Hypholoma",
+      "agent": "fasciculol B & fasciculol C",
+      "distribution": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ziegelrote_Schwefelkopf_Hypholoma_lateritium.jpg/500px-Ziegelrote_Schwefelkopf_Hypholoma_lateritium.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 92,
+      "name": "Hypholoma marginatum",
+      "commonname": "",
+      "genus": "Hypholoma",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/2011-12-24_Hypholoma_marginatum_%28Pers.%29_J._Schr%C3%B6t_191080.jpg/500px-2011-12-24_Hypholoma_marginatum_%28Pers.%29_J._Schr%C3%B6t_191080.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 93,
+      "name": "Hypholoma radicosum",
+      "commonname": "",
+      "genus": "Hypholoma",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hypholoma_a1.JPG/500px-Hypholoma_a1.JPG",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 94,
+      "name": "Imperator rhodopurpureus",
+      "commonname": "",
+      "genus": "Imperator",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Lu%C4%8Dn%C3%AD_-_Boletus_rhodopurpureus_01.jpg/500px-Lu%C4%8Dn%C3%AD_-_Boletus_rhodopurpureus_01.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 95,
+      "name": "Imperator torosus",
+      "commonname": "Brawny Bolete",
+      "genus": "Imperator",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Boletus_torosus_4.JPG/500px-Boletus_torosus_4.JPG",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 96,
+      "name": "Inocybe fibrosa",
+      "commonname": "",
+      "genus": "Inocybe",
+      "agent": "muscarine",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Coloured_Figures_of_English_Fungi_or_Mushrooms_-_t._414.png/500px-Coloured_Figures_of_English_Fungi_or_Mushrooms_-_t._414.png",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 97,
+      "name": "Inocybe geophylla",
+      "commonname": "Earthy inocybe",
+      "genus": "Inocybe",
+      "agent": "muscarine",
+      "distribution": [
+        "North America",
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ino.geo.jpg/500px-Ino.geo.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 98,
+      "name": "Inocybe hystrix",
+      "commonname": "",
+      "genus": "Inocybe",
+      "agent": "muscarine",
+      "distribution": [
+        "North America",
+        "Central America",
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/2011-10-02_Inocybe_hystrix_%28Fr.%29_Karsten_172120.jpg/500px-2011-10-02_Inocybe_hystrix_%28Fr.%29_Karsten_172120.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 99,
+      "name": "Inocybe lacera",
+      "commonname": "Torn fibercap",
+      "genus": "Inocybe",
+      "agent": "muscarine",
+      "distribution": [
+        "North America",
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Inocybe_spec._-_Lindsey_1.jpg/500px-Inocybe_spec._-_Lindsey_1.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 100,
+      "name": "Inocybe lilacina",
+      "genus": "Inocybe",
+      "commonname": "",
+      "agent": "muscarine",
+      "distribution": [
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2011-01-23_Inocybe_geophylla_var._lilacina_Gillet_132565.jpg/500px-2011-01-23_Inocybe_geophylla_var._lilacina_Gillet_132565.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 101,
+      "name": "Inocybe rimosa",
+      "commonname": "Straw-Colored Fiber Head",
+      "genus": "Inocybe",
+      "agent": "muscarine",
+      "distribution": [
+        "Europe",
+        "Asia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/2011-11-26_Inocybe_rimosa_%28Bull.%29_P._Kumm_185170.jpg/500px-2011-11-26_Inocybe_rimosa_%28Bull.%29_P._Kumm_185170.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 102,
+      "name": "Inocybe sambucina",
+      "commonname": "",
+      "genus": "Inocybe",
+      "agent": "muscarine",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 103,
+      "name": "Inocybe sublilacina",
+      "commonname": "",
+      "genus": "Inocybe",
+      "agent": "muscarine",
+      "distribution": [
+        "North America",
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Inocybe_sublilacina.jpg/500px-Inocybe_sublilacina.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 104,
+      "name": "Inosperma erubescens",
+      "commonname": "red-staining inocybe",
+      "genus": "Inosperma",
+      "agent": "muscarine",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Inosperma_erubescens.jpg/500px-Inosperma_erubescens.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 105,
+      "name": "Lactarius torminosus",
+      "commonname": "Woolly milkcap",
+      "genus": "Lactarius",
+      "agent": "velleral",
+      "distribution": [
+        "North America",
+        "Europe",
+        "Asia",
+        "North Africa"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lactarius_torminosus_G2.jpg/500px-Lactarius_torminosus_G2.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 106,
+      "name": "Lepiota brunneoincarnata",
+      "commonname": "deadly dapperling",
+      "genus": "Lepiota",
+      "agent": "amanitins",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Lepiota_brunneoincarnata_060823w.jpg/500px-Lepiota_brunneoincarnata_060823w.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 107,
+      "name": "Lepiota brunneolilacea",
+      "commonname": "star dapperling",
+      "genus": "Lepiota",
+      "agent": "amanitins",
+      "distribution": [
+        "Western Europe"
+      ],
+      "img": "",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 108,
+      "name": "Lepiota castanea",
+      "commonname": "chestnut dapperling",
+      "genus": "Lepiota",
+      "agent": "amanitins",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Lepiota_castanea_70848.jpg/500px-Lepiota_castanea_70848.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 109,
+      "name": "Lepiota helveola",
+      "commonname": "",
+      "genus": "Lepiota",
+      "agent": "amanitins",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lepiota_helveola.png/500px-Lepiota_helveola.png",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 110,
+      "name": "Lepiota subincarnata",
+      "commonname": "deadly parasol",
+      "genus": "Lepiota",
+      "agent": "amanitins",
+      "distribution": [
+        "Asia",
+        "Europe",
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lepiota_subincarnata_117620.jpg/500px-Lepiota_subincarnata_117620.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 111,
+      "name": "Mycena diosma",
+      "commonname": "",
+      "genus": "Mycena",
+      "agent": "unknown (probably puraquinonic acid)",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ruzovsky_vrch_Mycena_diosma_1.jpg/500px-Ruzovsky_vrch_Mycena_diosma_1.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 112,
+      "name": "Mycena pura",
+      "commonname": "Lilac bonnet",
+      "genus": "Mycena",
+      "agent": "puraquinonic acid and psilocybin",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rettichhelmling002_%281%29.JPG/500px-Rettichhelmling002_%281%29.JPG",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 113,
+      "name": "Mycena rosea",
+      "commonname": "Rosy bonnet",
+      "genus": "Mycena",
+      "agent": "unknown (probably puraquinonic acid)",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mycena_rosea%2C_Rosy_Bonnet%2C_UKB.jpg/500px-Mycena_rosea%2C_Rosy_Bonnet%2C_UKB.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 114,
+      "name": "Neonothopanus nambi",
+      "commonname": "",
+      "genus": "Neonothopanus",
+      "agent": "unknown",
+      "distribution": [
+        "South America"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 115,
+      "name": "Omphalotus illudens",
+      "commonname": "Jack-O'lantern mushroom",
+      "genus": "Omphalotus",
+      "agent": "illudin S, illudin M, and muscarine",
+      "distribution": [
+        "North America",
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Omphalotus_illudens_%2821630755718%29.jpg/500px-Omphalotus_illudens_%2821630755718%29.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 116,
+      "name": "Omphalotus japonicus",
+      "commonname": "Tsukiyotake",
+      "genus": "Omphalotus",
+      "agent": "illudin S and illudin M",
+      "distribution": [
+        "Asia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Omphalotus_guepiniformis_Berk_Neda_02.jpg/500px-Omphalotus_guepiniformis_Berk_Neda_02.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 117,
+      "name": "Omphalotus nidiformis",
+      "commonname": "Ghost fungus",
+      "genus": "Omphalotus",
+      "agent": "illudin S, illudin M, and illudosin",
+      "distribution": [
+        "Australia",
+        "India"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Omphalotus_nidiformis_OMP_9722.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 118,
+      "name": "Omphalotus olearius",
+      "commonname": "Jack-O'lantern mushroom",
+      "genus": "Omphalotus",
+      "agent": "illudin S",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Omphalotus_olearius-Zavodnica.JPG/500px-Omphalotus_olearius-Zavodnica.JPG",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 119,
+      "name": "Omphalotus olivascens",
+      "commonname": "Western jack-o'-lantern mushroom",
+      "genus": "Omphalotus",
+      "agent": "illudin S",
+      "distribution": [
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Omphalotus_olivascens_125218.jpg/500px-Omphalotus_olivascens_125218.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 120,
+      "name": "Panaeolus cinctulus",
+      "commonname": "banded mottlegill",
+      "genus": "Panaeolus",
+      "agent": "psilocybin and psilocin",
+      "distribution": [
+        "North America",
+        "Europe",
+        "Africa",
+        "Australia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/2014-09-25_Panaeolus_cinctulus_%28Bolton%29_Britzelm_461676.jpg/500px-2014-09-25_Panaeolus_cinctulus_%28Bolton%29_Britzelm_461676.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 121,
+      "name": "Paralepistopsis acromelalga",
+      "commonname": "poisonous bamboo mushroom",
+      "genus": "Paralepistopsis",
+      "agent": "acromelic acid",
+      "distribution": [
+        "Japan"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 122,
+      "name": "Paralepistopsis amoenolens",
+      "commonname": "Paralysis funnel",
+      "genus": "Paralepistopsis",
+      "agent": "acromelic acid",
+      "distribution": [
+        "North Africa",
+        "Europe"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 123,
+      "name": "Paxillus involutus",
+      "commonname": "brown roll-rim",
+      "genus": "Paxillus",
+      "agent": "unknown, possibly glycoprotein antigen",
+      "distribution": [
+        "Europe",
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Paxillus_involutus_20061015w.jpg/500px-Paxillus_involutus_20061015w.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 124,
+      "name": "Pholiotina rugosa",
+      "commonname": "",
+      "genus": "Pholiotina",
+      "agent": "amanitins",
+      "distribution": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pholiotina_rugosa_62373.jpg/500px-Pholiotina_rugosa_62373.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 125,
+      "name": "Podostroma cornu-damae",
+      "commonname": "poison fire coral",
+      "genus": "Podostroma",
+      "agent": "diacetylsatratoxin-H (ribosome inactivating small molecule)",
+      "distribution": [
+        "Japan",
+        "South Korea",
+        "Papua New Guinea",
+        "Australia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Podostroma_cornu-damae.jpg/500px-Podostroma_cornu-damae.jpg",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 126,
+      "name": "Psilocybe semilanceata",
+      "commonname": "Liberty cap",
+      "genus": "Psilocybe",
+      "agent": "psilocybin, psilocin, and baeocystin",
+      "distribution": [
+        "North America",
+        "Europe",
+        "Asia",
+        "Australia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Psilocybe_semilanceata_250px.jpg/500px-Psilocybe_semilanceata_250px.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 127,
+      "name": "Ramaria formosa",
+      "commonname": "Beautiful clavaria",
+      "genus": "Ramaria",
+      "agent": "unknown",
+      "distribution": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ramaria_formosa_Alan_Rockefeller.JPG/500px-Ramaria_formosa_Alan_Rockefeller.JPG",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 128,
+      "name": "Ramaria neoformosa",
+      "commonname": "",
+      "genus": "Ramaria",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2009-11-11_Ramaria_neoformosa_64365_crop.jpg/500px-2009-11-11_Ramaria_neoformosa_64365_crop.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 129,
+      "name": "Ramaria pallida",
+      "commonname": "",
+      "genus": "Ramaria",
+      "agent": "unknown",
+      "distribution": [
+        "North America",
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/AD2009Sep13_Ramaria_pallida_01.jpg/500px-AD2009Sep13_Ramaria_pallida_01.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 130,
+      "name": "Rubroboletus legaliae",
+      "commonname": "Le Gal's bolete",
+      "genus": "Rubroboletus",
+      "agent": "unknown (probably boletasine and muscarine)",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lu%C4%8Dn%C3%AD_-_Boletus_legaliae_02.jpg/500px-Lu%C4%8Dn%C3%AD_-_Boletus_legaliae_02.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 131,
+      "name": "Rubroboletus lupinus",
+      "commonname": "Wolves bolete",
+      "genus": "Rubroboletus",
+      "agent": "unknown (probably boletasine and muscarine)",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Boletus_lupinus.jpg/500px-Boletus_lupinus.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 132,
+      "name": "Rubroboletus pulcherrimus",
+      "commonname": "",
+      "genus": "Rubroboletus",
+      "agent": "unknown",
+      "distribution": [
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2009-11-25_Boletus_pulcherrimus_Thiers_%26_Halling_66137.jpg/500px-2009-11-25_Boletus_pulcherrimus_Thiers_%26_Halling_66137.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 133,
+      "name": "Rubroboletus satanas",
+      "commonname": "Satan's bolete",
+      "genus": "Rubroboletus",
+      "agent": "boletasine and muscarine",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Boletus-satanas-3_crop.jpg/500px-Boletus-satanas-3_crop.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 134,
+      "name": "Russula emetica",
+      "commonname": "The sickener",
+      "genus": "Russula",
+      "agent": "lactarorufin A, methoxyfuranalcohol, and R. emetica unnamed compound",
+      "distribution": [
+        "North America",
+        "Europe",
+        "North Africa",
+        "Asia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Russula_emetica1.JPG/500px-Russula_emetica1.JPG",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 135,
+      "name": "Russula subnigricans",
+      "commonname": "",
+      "genus": "Russula",
+      "agent": "unknown",
+      "distribution": [
+        ""
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 136,
+      "name": "Sarcosphaera coronaria",
+      "commonname": "Pink crown",
+      "genus": "Sarcosphaera",
+      "agent": "",
+      "distribution": [
+        "North America",
+        "Europe",
+        "North Africa",
+        "Asia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sarcosphaera_eximia_%28cropped%29.JPG/500px-Sarcosphaera_eximia_%28cropped%29.JPG",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 137,
+      "name": "Tricholoma equestre",
+      "commonname": "Yellow knight",
+      "genus": "Tricholoma",
+      "agent": "unknown",
+      "distribution": [
+        "Europe"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tricholoma_equestre.jpg/500px-Tricholoma_equestre.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 138,
+      "name": "Tricholoma muscarium",
+      "commonname": "",
+      "genus": "Tricholoma",
+      "agent": "tricholomic acid and ibotenic acid",
+      "distribution": [
+        "Japan"
+      ],
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 139,
+      "name": "Tricholoma pardinum",
+      "commonname": "Tiger tricholoma",
+      "genus": "Tricholoma",
+      "agent": "unknown",
+      "distribution": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tricholoma_pardinum_112561_cropped.jpg/500px-Tricholoma_pardinum_112561_cropped.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 140,
+      "name": "Trogia venenata",
+      "commonname": "Little white mushroom",
+      "genus": "Trogia",
+      "agent": "(2S,4R)‐2‐amino‐4‐hydroxyhex‐5‐ynoic acid",
+      "distribution": [
+        "China"
+      ],
+      "img": "",
+      "type": "deadly",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 141,
+      "name": "Turbinellus floccosus",
+      "commonname": "Woolly false chanterelle",
+      "genus": "Turbinellus",
+      "agent": "norcaperatic acid",
+      "distribution": [
+        "North America",
+        "East Asia"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Flickr_-_Nicholas_T_-_Forrest_H._Dutlinger_Natural_Area_%28Revisited%29_%2815%29.jpg/500px-Flickr_-_Nicholas_T_-_Forrest_H._Dutlinger_Natural_Area_%28Revisited%29_%2815%29.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    },
+    {
+      "id": 142,
+      "name": "Turbinellus kauffmanii",
+      "commonname": "",
+      "genus": "Turbinellus",
+      "agent": "norcaperatic acid",
+      "distribution": [
+        "North America"
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Gomphus_kauffmanii_%2832044787422%29.jpg/500px-Gomphus_kauffmanii_%2832044787422%29.jpg",
+      "type": "poisonous",
+      "introduction": "",
+      "description": ""
+    }
+  ]
+}
