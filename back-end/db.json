@@ -2060,7 +2060,7 @@
       "introduction": "",
       "description": ""
     },
-     {
+    {
       "id": 142,
       "name": "Turbinellus kauffmanii",
       "commonname": "",
@@ -2075,18 +2075,34 @@
       "description": ""
     },
     {
-      "name": "OG toxic shroom",
-      "commonname": "shroom",
-      "genus": "OG",
-      "agent": "toxins",
+      "name": "shroomus genericus",
+      "commonname": "mushroom",
+      "genus": "",
+      "agent": "",
       "distribution": [
-        "everywhere"
+        "europe",
+        "america"
       ],
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sparrige_Sch%C3%BCppling_%28Pholiota_squarrosa%29.jpg/2560px-Sparrige_Sch%C3%BCppling_%28Pholiota_squarrosa%29.jpg",
-      "type": "deadly",
-      "introduction": "hello :)",
-      "description": "Imma be killin ya",
+      "img": "",
+      "type": "poisonous",
+      "introduction": "",
+      "description": "",
       "id": 143
+    },
+    {
+      "name": "test",
+      "commonname": "",
+      "genus": "",
+      "agent": "",
+      "distribution": [
+        "everywhere",
+        "worldwide"
+      ],
+      "img": "",
+      "type": "unsure",
+      "introduction": "",
+      "description": "",
+      "id": 144
     }
   ]
 }
