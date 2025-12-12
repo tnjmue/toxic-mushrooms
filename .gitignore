@@ -24,5 +24,3 @@ dist-ssr
 *.sw?
 .env
 db.backup.json
-package-lock.json
-package.json
