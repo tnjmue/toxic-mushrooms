@@ -8,13 +8,14 @@ import MushroomDetails from './pages/MushroomDetails'
 import AddMushroom from './pages/AddMushroom'
 import EditMushroom from './pages/EditMushroom'
 import Error from './pages/Error'
-import NavBar from './components/Navbar'
+import NavBar from './components/NavBar'
 import Header from './components/Header'
+import Footer from './components/Footer'
 import './App.css'
 import { ThemeContext } from './context/theme.context'
 import axios from 'axios'
 import { useNavigate } from "react-router-dom";
-import Footer from './components/Footer'
+
 
 function App() {
 
