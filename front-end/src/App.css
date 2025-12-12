@@ -115,6 +115,29 @@ padding: 2rem;
     }
 }
 
+footer {
+    position: sticky;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    width: 100%;
+    text-align: center;
+    margin-top: 3rem;
+    background-color:rgb(23, 49, 10);
+    color: #F1E9D2;
+    padding: 1rem;
+    box-sizing: border-box;
+    border-radius: 3px;
+  
+}
+
+footer a {
+  text-decoration: none;
+ /*  color: rgb(252, 231, 154) */
+  color: #F1E9D2;
+}
+
 .welcome {
     border: 5px double rgb(29, 23, 6);
     padding: 2rem;

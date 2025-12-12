@@ -14,12 +14,14 @@ import './App.css'
 import { ThemeContext } from './context/theme.context'
 import axios from 'axios'
 import { useNavigate } from "react-router-dom";
+import Footer from './components/Footer'
 
 function App() {
 
   const { theme, toggleTheme } = useContext(ThemeContext)
   const navigate = useNavigate();
-  const API = import.meta.env.VITE_BASE_URL ?? "http://localhost:5005/mushroomsAPI";
+  const API = import.meta.env.VITE_BASE_URL;
+  //?? "http://localhost:5005/mushroomsAPI"
 
 
   const handleDelete = async (id) => {
@@ -53,6 +55,8 @@ function App() {
       <Route path="/edit/:mushroomId" element={< EditMushroom API={API} className="edit" />} />
       <Route path="*" element={< Error className="error" />} />
     </Routes>
+
+    <Footer />
     </div>
     </main>
     </>
