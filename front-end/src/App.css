@@ -49,31 +49,19 @@ padding: 2rem;
     color: rgb(29, 19, 6);
 }
 
-.navWidth {
-    max-width: 980px;
+.siteWidth {
+    max-width: 1024px;
     width: 100%;
 }
 
 .navbar {
-    position: sticky;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
+    display: flex; 
     background-color: rgb(23, 49, 10);
     color: #F1E9D2;
-    padding: 1rem;
+    padding: 0.5rem;
     box-sizing: border-box;
     border-radius: 3px;
     box-shadow: 0 0 4px rgb(82, 99, 63);
-     a {
-        text-decoration: none;
-        color: inherit;
-    }
-    li {
-        list-style-type: none;
-        margin-right: 2rem
-    }
     button {
         background: none;
         border: none;
@@ -87,8 +75,28 @@ padding: 2rem;
     }
 }
 
+.navbar-links {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 2rem; 
+    margin: 0;
+    padding-left: 2rem;
+    li a {
+        text-decoration: none;
+        color: inherit;
+    }
+}
+
 footer {
     margin-top: 2rem;
+    gap: 2rem;
+    padding: 1rem !important;
+    justify-content: center;
+    a {
+        text-decoration: none;
+        color: inherit;
+}
 }
 
 .addSymbol {
@@ -141,6 +149,7 @@ footer {
         img {
             height: 20%;
             width: auto;
+            margin-right: 3rem;
         }
 }
 

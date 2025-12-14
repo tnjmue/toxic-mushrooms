@@ -46,7 +46,7 @@ function App() {
   return (
     <>
     <main className={theme}>
-      <div className="navWidth">
+      <div className="siteWidth">
     <NavBar />
     <Header />
     

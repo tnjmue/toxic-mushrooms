@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import { useContext } from "react";
 import { ThemeContext } from "../context/theme.context";
 
@@ -10,11 +10,13 @@ export default function NavBar() {
         <>
         
         <nav className="navbar">
-                <Link to="/"><li>Home</li></Link>
-                <Link to="/about"><li>About</li></Link>
-                <Link to="/directory"><li>Directory</li></Link>
-                <Link to="/add"><li className="addSymbol"> + </li></Link>
-                <button className="buttons-symbol" onClick={toggleTheme} >{theme === 'light' ? "⏾" : "☀︎" }</button>
+            <ul className="navbar-links"> 
+                <li><NavLink to="/">Home</NavLink></li>
+                <li><NavLink to="/about">About</NavLink></li>
+                <li><NavLink to="/directory">Directory</NavLink></li>
+                <li><NavLink to="/add" className="addSymbol"> + </NavLink></li>
+            </ul>
+             <button className="buttons-symbol" onClick={toggleTheme} >{theme === 'light' ? "⏾" : "☀︎" }</button>
         </nav>
         </>
     )
