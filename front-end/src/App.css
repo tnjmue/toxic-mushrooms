@@ -65,26 +65,31 @@ padding: 2rem;
     button {
         background: none;
         border: none;
-        padding: 0;
-        margin: 0;
+        border-radius: 2px;
         font: inherit;
         color: inherit;
         cursor: pointer;
-        outline: none;
-        margin-left: auto;
+        }
+    button:hover {
+        color: rgb(218, 186, 90);
     }
 }
 
 .navbar-links {
     display: flex;
-    align-items: center;
+    justify-content: center;
     list-style: none;
+    align-items: center;
     gap: 2rem; 
     margin: 0;
     padding-left: 2rem;
+    flex-grow: 1;
     li a {
         text-decoration: none;
         color: inherit;
+    }
+    li:hover {
+        color: rgb(218, 186, 90);
     }
 }
 
