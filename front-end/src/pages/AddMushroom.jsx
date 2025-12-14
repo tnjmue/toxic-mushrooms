@@ -87,7 +87,6 @@ export default function AddMushroom({API}) {
                     value={distribution}
                     onChange={(e) => setDistribution(e.target.value)}
                     placeholder="Region, Region, ..."
-                    required
                 />
 
                 <label>agent:</label>
