@@ -65,6 +65,7 @@ padding: 2rem;
     padding: 1rem;
     box-sizing: border-box;
     border-radius: 3px;
+    box-shadow: 0 0 4px rgb(82, 99, 63);
      a {
         text-decoration: none;
         color: inherit;
@@ -86,6 +87,10 @@ padding: 2rem;
     }
 }
 
+footer {
+    margin-top: 2rem;
+}
+
 .addSymbol {
     font-size:xx-large;
     font-weight: bolder;
@@ -98,6 +103,7 @@ padding: 2rem;
     margin-top: 1rem;
     align-items: center;
     justify-content: center;
+    
     img {
         width: auto;
         height: 10vh;
@@ -112,34 +118,16 @@ padding: 2rem;
         font-size: 2.5em;
         border: 5px double rgb(29, 19, 6);
         padding: 1rem;
+        box-shadow: 0 0 4px #595135;
+        background-color: #bca971;
+        color: rgb(29, 19, 6);
     }
 }
 
-footer {
-    position: sticky;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 2rem;
-    width: 100%;
-    text-align: center;
-    margin-top: 3rem;
-    background-color:rgb(23, 49, 10);
-    color: #F1E9D2;
-    padding: 1rem;
-    box-sizing: border-box;
-    border-radius: 3px;
-  
-}
-
-footer a {
-  text-decoration: none;
- /*  color: rgb(252, 231, 154) */
-  color: #F1E9D2;
-}
 
 .welcome {
     border: 5px double rgb(29, 23, 6);
+    box-shadow: 0 0 4px #595135;
     padding: 2rem;
     display: flex;
     flex-direction: column;
@@ -198,6 +186,7 @@ footer a {
     border: 5px double rgb(29, 23, 6);
     margin: 0.5rem;  
     padding-right: 2rem;
+    box-shadow: 0 0 4px #595135;
 }
 
 .card:hover {
@@ -212,6 +201,7 @@ footer a {
 
 .AddMushroom {
     border: 5px double rgb(29, 23, 6);
+    box-shadow: 0 0 4px #595135;
     background-color: #efdeaa;
     padding: 3rem;
     form {

@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 export default function MushroomDetails({API, handleDelete, handleEdit}) {
 
    const { mushroomId } = useParams()
-   const [mushroom, setMushroom] =useState([])
+   const [mushroom, setMushroom] =useState({})
 
    // fetch the right endpoint
    useEffect(() => {
@@ -26,9 +26,9 @@ export default function MushroomDetails({API, handleDelete, handleEdit}) {
         { mushroom.img ? <img src={mushroom.img} alt="" /> : '' }
 
         <div className="stats">
-          <div><b style={{color: "#aa8303ff"}}>genus:</b> {mushroom.genus}</div>
-        <div><b style={{color: "#aa8303ff"}}>distribution:</b> {mushroom.distribution?.length > 0 ? mushroom.distribution.join(", ") : "Unknown"}</div>
-        <div><b style={{color: "#aa8303ff"}}>agent:</b> {mushroom.agent}</div>
+          <div><b style={{color: "#aa8303ff"}}>genus:</b> {mushroom.genus ? mushroom.genus : "Unknown" }</div>
+        <div><b style={{color: "#aa8303ff"}}>distribution:</b> {Array.isArray(mushroom.distribution) && mushroom.distribution.length > 0? mushroom.distribution.join(", ") : "Unknown"} </div>
+        <div><b style={{color: "#aa8303ff"}}>agent:</b> {mushroom.agent ? mushroom.agent : "Unknown"}</div>
         <span> {mushroom.type === "poisonous" ? "⚠︎" : mushroom.type === "deadly" ? "☠️︎" : ""}{" "} {mushroom.type}</span>
         </div>
         </div>

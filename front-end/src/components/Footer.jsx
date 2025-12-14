@@ -1,6 +1,6 @@
 export default function Footer() {
     return (
-        <footer>
+        <footer className="navbar">
             <div> </div>
             <div>© Tanja Mueller, 2025</div>
             <div>  • </div>

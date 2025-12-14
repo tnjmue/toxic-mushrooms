@@ -6,9 +6,8 @@ export default function AddMushroom({API}) {
 
     const [name, setName] = useState("")
     const [commonname, setCommonname] = useState("")
-    const [genus, setGenus] = useState("")
     const [agent, setAgent] = useState("")
-    const [distribution, setDistribution] = useState([])
+    const [distribution, setDistribution] = useState("")
     const [img, setImg] = useState("")
     const [type, setType] = useState("")
     const [introduction, setIntroduction] = useState("")
@@ -17,6 +16,14 @@ export default function AddMushroom({API}) {
 
     const handleSubmit = async (e) => {
         e.preventDefault();
+
+        const genusSpecies = name.trim().split(/\s+/);
+        if (genusSpecies.length < 2) {
+            alert("Scientific name must include genus and species");
+            return;
+        }
+
+        const genus = genusSpecies[0];
 
         const newMushroom = {
             name,
@@ -51,6 +58,8 @@ export default function AddMushroom({API}) {
                     name="name"
                     value={name}
                     onChange={(e) => setName(e.target.value)}
+                    placeholder="Scientific Name"
+                    required
                 />
                
                 <label>commonname:</label>
@@ -59,22 +68,16 @@ export default function AddMushroom({API}) {
                     name="commonname"
                     value={commonname}
                     onChange={(e) => setCommonname(e.target.value)}
-                />
-        
-                <label>genus:</label>
-                <input
-                    type="text"
-                    name="genus"
-                    value={genus}
-                    onChange={(e) => setGenus(e.target.value)}
+                    placeholder="Common Name"
                 />
 
-                <label>agent:</label>
+                 <label>image:</label>
                 <input
                     type="text"
-                    name="agent"
-                    value={agent}
-                    onChange={(e) => setAgent(e.target.value)}
+                    name="img"
+                    value={img}
+                    onChange={(e) => setImg(e.target.value)}
+                    placeholder="Image URL"
                 />
 
                 <label>distribution:</label>
@@ -83,15 +86,17 @@ export default function AddMushroom({API}) {
                     name="distribution"
                     value={distribution}
                     onChange={(e) => setDistribution(e.target.value)}
+                    placeholder="Region, Region, ..."
                     required
                 />
 
-                <label>image:</label>
+                <label>agent:</label>
                 <input
                     type="text"
-                    name="img"
-                    value={img}
-                    onChange={(e) => setImg(e.target.value)}
+                    name="agent"
+                    value={agent}
+                    onChange={(e) => setAgent(e.target.value)}
+                    placeholder="Toxic Agent"
                 />
 
                 <label>type:</label>

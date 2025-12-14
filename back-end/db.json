@@ -2073,36 +2073,6 @@
       "type": "poisonous",
       "introduction": "",
       "description": ""
-    },
-    {
-      "name": "shroomus genericus",
-      "commonname": "mushroom",
-      "genus": "",
-      "agent": "",
-      "distribution": [
-        "europe",
-        "america"
-      ],
-      "img": "",
-      "type": "poisonous",
-      "introduction": "",
-      "description": "",
-      "id": 143
-    },
-    {
-      "name": "test",
-      "commonname": "",
-      "genus": "",
-      "agent": "",
-      "distribution": [
-        "everywhere",
-        "worldwide"
-      ],
-      "img": "",
-      "type": "unsure",
-      "introduction": "",
-      "description": "",
-      "id": 144
     }
   ]
 }

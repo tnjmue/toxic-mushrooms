@@ -26,15 +26,18 @@ function App() {
 
 
   const handleDelete = async (id) => {
+
+    if ( id > 142) {
     try {
       await axios.delete(`${API}/${id}`)
-      /* setMushrooms(prev => prev.filter(mushroom => mushroom.id !== id)); */
       navigate("/directory");
-      /* window.location.reload(false); */
     } catch(err) {
       console.error("Failed to delete mushroom:", err);
     }
-  };
+
+  } else {
+    alert("You are not authorized to perform this action.")
+  }};
 
   const handleEdit =  (id) => {
     navigate(`/edit/${id}`);

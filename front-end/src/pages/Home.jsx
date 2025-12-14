@@ -20,7 +20,7 @@ export default function Home() {
         <div className="mushroom-div">
             <img src={pilz} alt="" />
             <div className="mushroom-poisoning">
-                <h2 style={{color: "rgb(218, 186, 90)"}}>Mushroom poisoning</h2>
+                <h2 style={{color: "#aa8303ff"}}>Mushroom poisoning</h2>
                 <h5><i>From Wikipedia, the free encyclopedia</i></h5>
                 <div>
                     <b>" Mushroom poisoning</b> is poisoning resulting from the ingestion of mushrooms that contain toxic substances. Symptoms can vary from slight gastrointestinal discomfort to death in about 10 days. Mushroom toxins are secondary metabolites produced by the fungus.

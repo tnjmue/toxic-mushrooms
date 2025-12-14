@@ -22,7 +22,9 @@ export default function EditMushroom({ API }) {
     fetch(`${API}/${mushroomId}`)
       .then(res => res.json())
       .then(data => {
-        setFormData(data);
+        setFormData({
+          ...data,
+        distribution:Array.isArray(data.distribution) ? data.distribution.join(", ") : [] });
       })
       .catch(err => console.error("Failed to fetch mushroom:", err));
   }, [API, mushroomId]);
@@ -37,8 +39,15 @@ export default function EditMushroom({ API }) {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+
+    const updatedMushroom = {
+      ...formData,
+      genus: formData.name.split(" ")[0],
+      distribution:formData.distribution.split(",").map(d => d.trim()).filter(Boolean)
+    };
+
     try {
-      await axios.put(`${API}/${mushroomId}`, formData);
+      await axios.put(`${API}/${mushroomId}`, updatedMushroom);
       navigate(`/directory/${mushroomId}`);
     } catch (err) {
       console.error("Failed to update mushroom:", err);
@@ -69,7 +78,7 @@ export default function EditMushroom({ API }) {
           placeholder="Common Name"
         />
 
-        <label>image:</label>
+         <label>image:</label>
         <input
           type="text"
           name="img"
@@ -84,7 +93,7 @@ export default function EditMushroom({ API }) {
           name="distribution"
           value={formData.distribution}
           onChange={handleChange}
-          placeholder="Distribution"
+          placeholder="Region, Region, ..."
         />
 
         <label>agent:</label>
